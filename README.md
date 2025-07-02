@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Abilash EG</h1>
-<h3 align="center">AWS Certified Cloud Practitioner| DevOps Enthusiast |Cloud| CSE student @ VIT Bhopal</h3>
+<h3 align="center">AWS Certified Cloud Practitioner| DevOps Enthusiast |Cloud| CSE student From VIT </h3>
 
 - 📋My certifications [Certifications](https://drive.google.com/drive/folders/1_gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL?usp=drive_link)
 
