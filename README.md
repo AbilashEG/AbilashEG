@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **CI-CD Tools like Jenkins | Docker | Kubernetes |AI tools |Data Analytics**
 
-- 💬 Ask me about **AWS Cloud , DevOps Engineering, AI,Data Analytics**
+- 💬 Ask me about **AWS Cloud , DevOps Engineering, AI,Data Analytics, data engineering**
 
 - 📫 How to reach me **abilashgomathi7@gmail.com**
 
