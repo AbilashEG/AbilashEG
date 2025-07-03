@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Abilash EG</h1>
-<h3 align="center">AWS Certified Cloud Practitioner| DevOps Enthusiast |Cloud| CSE student From VIT </h3>
+<h3 align="center">AWS Certified Cloud Practitioner| DevOps Enthusiast |AI|Data Analytics| CSE student From VIT </h3>
 
 - 📋My certifications [Certifications](https://drive.google.com/drive/folders/1_gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL?usp=drive_link)
 
-- 🌱 I’m currently learning **CI-CD Tools like Jenkins | Docker | Kubernetes**
+- 🌱 I’m currently learning **CI-CD Tools like Jenkins | Docker | Kubernetes |AI tools |Data Analytics**
 
-- 💬 Ask me about **AWS Cloud , DevOps Engineering**
+- 💬 Ask me about **AWS Cloud , DevOps Engineering, AI,Data Analytics**
 
 - 📫 How to reach me **abilashgomathi7@gmail.com**
 
