@@ -1,171 +1,128 @@
 <p align="center">
-<svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <img src="https://i.imgur.com/zJ0ZNxN.gif" width="100%" alt="Cyberpunk Neural Network AI/ML">
+</p>
 
-  <defs>
-    <!-- Glow Filter -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+# <span style="color: #00E7FF">Hey, I'm <b>Abilash EG</b></span> 👨‍💻🔥
 
-    <!-- Node Burst Gradient -->
-    <radialGradient id="nodeGrad" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#ffffff"/>
-      <stop offset="40%" stop-color="#7fffd4"/>
-      <stop offset="100%" stop-color="#8a2be2" stop-opacity="0"/>
-    </radialGradient>
+<h3 align="center">
+  <span style="color: #7FFFD4">AWS Certified Cloud Practitioner</span> ·
+  <span style="color: #FF6B9D">AI/ML AgentCore Engineer</span> ·
+  <span style="color: #00D4AA">DevOps Automation</span> ·
+  <span style="color: #FFD700">Data Engineering</span>
+</h3>
 
-    <!-- Cyberpunk Background -->
-    <linearGradient id="bgGrad" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#0a0014"/>
-      <stop offset="100%" stop-color="#140031"/>
-    </linearGradient>
-  </defs>
-
-  <!-- Background -->
-  <rect width="1200" height="260" fill="url(#bgGrad)"/>
-
-  <!-- ANIMATED NODES -->
-  <g filter="url(#glow)">
-    <circle cx="150" cy="80" r="14" fill="url(#nodeGrad)">
-      <animate attributeName="r" values="12;20;12" dur="3.8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="320" cy="170" r="10" fill="url(#nodeGrad)">
-      <animate attributeName="r" values="10;18;10" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="540" cy="90" r="16" fill="url(#nodeGrad)">
-      <animate attributeName="r" values="16;26;16" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="720" cy="140" r="13" fill="url(#nodeGrad)">
-      <animate attributeName="r" values="13;23;13" dur="3.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="900" cy="100" r="18" fill="url(#nodeGrad)">
-      <animate attributeName="r" values="18;28;18" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="1050" cy="160" r="12" fill="url(#nodeGrad)">
-      <animate attributeName="r" values="12;22;12" dur="4s" repeatCount="indefinite"/>
-    </circle>
-
-    <!-- Extra cyberpunk nodes -->
-    <circle cx="250" cy="210" r="8" fill="url(#nodeGrad)">
-      <animate attributeName="r" values="8;16;8" dur="4.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="450" cy="200" r="10" fill="url(#nodeGrad)">
-      <animate attributeName="r" values="10;20;10" dur="4.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="650" cy="210" r="14" fill="url(#nodeGrad)">
-      <animate attributeName="r" values="14;24;14" dur="3.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="850" cy="190" r="9" fill="url(#nodeGrad)">
-      <animate attributeName="r" values="9;17;9" dur="4s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-
-  <!-- CONNECTING CYBER LINES -->
-  <g stroke="#a754ff" stroke-width="2" opacity="0.6" filter="url(#glow)">
-    <line x1="150" x2="450" y1="80" y2="200">
-      <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
-    </line>
-    <line x1="450" x2="850" y1="200" y2="190">
-      <animate attributeName="opacity" values="1;0.3;1" dur="5s" repeatCount="indefinite"/>
-    </line>
-    <line x1="900" x2="1050" y1="100" y2="160">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="3.8s" repeatCount="indefinite"/>
-    </line>
-  </g>
-
-  <!-- NAME + TITLE -->
-  <text x="50%" y="125" text-anchor="middle" font-size="48" fill="#ffffff" font-family="Segoe UI" filter="url(#glow)">
-    ABILASH RG
-  </text>
-  <text x="50%" y="170" text-anchor="middle" font-size="26" fill="#7fffd4" font-family="Segoe UI" filter="url(#glow)">
-    DATA & AI ENGINEER
-  </text>
-
-</svg>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300E7FF&size=28&center=true&vCenter=true&width=1000&lines=Building+Agentic+AI+Agents;AWS+Bedrock+DeepSeek+Claude;Neural+Networks+%26+ML+Models;Cloud+Automation+%26+DevOps;Data+Engineering+%26+Analytics;CSE+Student+at+VIT;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
 </p>
 
 ---
 
-# 🧠 About Me
-Data & AI Engineer with hands-on experience building real-time automation systems, generative AI platforms, agentic workflows, ML deployments, and production-grade applications using AWS cloud.
+## 🌐 <span style="color: #A7F0FF">Neural Network Profile</span>
+
+<div align="center">
+  <img src="https://i.imgur.com/VDZfF12.gif" width="85%" alt="Animated Neural Connections - Bedrock Agents">
+</div>
+
+| **About Me** | **Current Focus** |
+|--------------|-------------------|
+| 🏢 AWS Certified, production deployments | Bedrock AgentCore autonomous agents |
+| 💻 AI/ML engineer building neural solutions | SageMaker ML model lifecycle & MLOps |
+| ⚡ DevOps: Docker, K8s, CI/CD | Lambda & EC2 real-time automation |
+| 📊 Data Engineering & Analytics | Observability, CloudWatch, logging |
+| 🐧 Linux daily driver | Kubernetes, GitHub Actions, Terraform |
+
+📧 **abilashgomathi7@gmail.com**  
+🌐 **Portfolio:** https://abilasheg.vercel.app  
+📄 **Resume:** https://drive.google.com/file/d/16J3RQYaipYYbWEA91LfixeA4FtSnYum/view?usp=sharing  
+🎖 **Certifications Folder:** https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL  
 
 ---
 
-# 🚀 Key Projects & Deliverables
+## 🔥 <span style="color: #FF6B9D">Featured Neural Projects</span>
 
-## **1️⃣ L1 AWS Assessment & Activity Bot (Production)**
-- EC2 + Flask + React + Nginx + Gunicorn  
-- Reduced manual assessment time **4+ hours → 60 seconds**  
-- Multi-account scanning across **11 AWS regions**  
-- Automated CloudWatch Agent installation for Linux/Windows/Ubuntu (SSM)  
-- 3-month cost analysis (Cost Explorer API)  
-- GP2 → GP3 automation  
-- Generates **6MB+ DOCX reports** (Matplotlib charts + diagrams)
-
----
-
-## **2️⃣ Generative & Agentic AI Solutions**
-
-### **HR Interview Management System**
-- Cognito auth  
-- Textract parsing  
-- Bedrock DeepSeek questions  
-- DynamoDB storage  
-- Dashboard integration  
-
-### **Agentic AI Farm Advisor**  
-- AgentCore concepts  
-- Backend reasoning chain  
-
-### **Healthcare Agent**  
-- Prescription automation  
-- DynamoDB + API Gateway  
-
-### **Movie Booking Bot**  
-- Bedrock Agent  
-- Auto seat/time/theater filling  
+| Project | Description | Tech Stack | Status |
+|--------|-------------|-----------|--------|
+| 🤖 **AI Trip Planner** | Agentic travel planner using Bedrock + live APIs | Bedrock, AgentCore, DeepSeek, Lambda, API GW | 🟢 Production-style |
+| 💼 **HR Interview AI** | Resume parsing → AI Q&A → candidate analytics | Textract, Bedrock, Cognito, DynamoDB, dashboard | 🟢 Live demo |
+| ⚙️ **EC2 L1 Bot** | 4 hr manual tasks → 60 s automation | Lambda, Bedrock, EC2, CloudWatch, SSM | 🔄 Deployed |
+| 🩺 **Diabetes Model** | XGBoost classifier with 94.5% accuracy | SageMaker, XGBoost, Flask, 3-tier UI | ✅ Deployed |
+| 🎬 **Movie Booking Bot** | Chat-based ticket booking using LLM | Bedrock, DynamoDB, Lambda | 🟡 In progress |
 
 ---
 
-## **3️⃣ ML & Visualization**
-- **Diabetes Model** (XGBoost + Logistic Regression)  
-  - 94.5% accuracy, AUC 0.9908  
-  - SageMaker deployment  
+## 🛠️ <span style="color: #00D4AA">Cyberpunk Neural Tech Stack</span>
 
-- **D3.js Org Chart**  
-  - Dynamic auto-layout  
 
-- **QuickSight Dashboards**  
-  - DataBrew ETL pipelines  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,bedrock,sagemaker,docker,kubernetes,jenkins,terraform,linux,python,tensorflow,pytorch,sklearn,dynamodb,postgres,mysql,flask,react,nginx&perline=12" />
+</div>
 
 ---
 
-# 🧩 Tech Stack
+## 📈 <span style="color: #7FFFD4">Neural Network Stats</span>
 
-### ☁ Cloud  
-EC2, Lambda, S3, SSM, IAM, CloudWatch, API Gateway, DynamoDB  
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abilasheg&show_icons=true&theme=radical&border_radius=20&title_color=FF6B9D&icon_color=00E7FF&text_color=A7F0FF&bg_color=0a0014" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilasheg&layout=compact&theme=radical&border_radius=20&title_color=FF6B9D&text_color=A7F0FF&bg_color=0a0014" />
+</p>
 
-### 🤖 AI  
-Bedrock Agents, DeepSeek, SageMaker, Textract, Comprehend, Rekognition  
-
-### 🗄 Data  
-Glue, Athena, Redshift, QuickSight, IoT Core, Kinesis  
-
-### 🛠 Dev  
-Python, Flask, Node.js, React.js, Docker, Nginx, D3.js  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abilasheg&theme=radical&border_radius=20&fire=FF6B9D&ring=00E7FF&currStreakLabel=A7F0FF&background=0a0014" />
+</div>
 
 ---
 
-# 🏆 Achievements & Certifications
-- 🥇 **Winner — Migratapalooza Hackathon 2025**  
-- 🎓 **AWS Data Engineer Associate**  
-- 🎓 **AWS Cloud Practitioner**  
-- 🏛 **AWS Well-Architected Partner Workshop**  
+## 🏅 <span style="color: #FF9900">Certifications Wall</span>
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  </a>
+  <a href="https://abilasheg.vercel.app">
+    <img src="https://img.shields.io/badge/AI%2FML-Neural%20Engineer-00E7FF?style=for-the-badge&logo=brain&logoColor=white" />
+  </a>
+  <a href="https://github.com/abilasheg?tab=repositories">
+    <img src="https://img.shields.io/badge/DevOps-Automation-00D4AA?style=for-the-badge&logo=docker&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
+    <img src="https://img.shields.io/badge/Data%20Engineering-Pipelines-FFD700?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<p align="center">⚡ Cyberpunk Neural-Network Powered README ⚡</p>
+## 🔗 <span style="color: #A7F0FF">Connect Neural Nodes</span>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abilash-eg-202429251/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/abilashgomathi7">
+    <img src="https://img.shields.io/badge/GfG-54B4F8?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35">
+  </a>
+  <a href="https://abilasheg.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=vercel&logoColor=white" height="35">
+  </a>
+  <a href="mailto:abilashgomathi7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://i.imgur.com/JMnP5qM.gif" width="55%" alt="Cyberpunk Neural Network Glow">
+</div>
+
+---
+
+## 🎯 <span style="color: #FF6B9D">Currently Training New Neural Paths</span>
+
+
+---
+
+<div align="center">
+  <span style="color: #7FFFD4; font-size: 20px; font-weight: bold;">
+    ⚡ <em>"Neural networks thrive on worst-case complexity training — just like real-world production systems."</em> ⚡
+  </span>
+  <br><br>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Banners/more-banner.gif" width="55%">
+</div>
