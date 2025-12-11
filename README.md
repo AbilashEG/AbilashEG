@@ -1,200 +1,81 @@
-<!-- ========================= -->
-<!--  CYBERPUNK ANIMATED BANNER  -->
-<!-- ========================= -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=SYSTEM.INIT(ABILASH_EG);INITIALIZING+NEURAL+NETWORKS...;TARGET:+DATA+%26+AI+ENGINEER;STATUS:+ONLINE;MODE:+CYBERPUNK" alt="Cyberpunk Typing SVG" />
+</div>
 
-<p align="center">
-<!-- Inline SVG cyberpunk banner: animated gradient + neural nodes + title -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="100%" height="220" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Cyberpunk AI banner">
-  <defs>
-    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#0ff" />
-      <stop offset="50%" stop-color="#8a2be2" />
-      <stop offset="100%" stop-color="#ff007a" />
-      <animate attributeName="x1" values="0;1;0" dur="8s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="1;0;1" dur="8s" repeatCount="indefinite"/>
-    </linearGradient>
+<div align="center">
+  <a href="https://linkedin.com/in/abilash-eg">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="https://abilasheg.vercel.app">
+    <img src="https://img.shields.io/badge/NET_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010" />
+  </a>
+  <a href="mailto:abilashgomathi7@gmail.com">
+    <img src="https://img.shields.io/badge/COMMS_UPLINK-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+  </a>
+</div>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-    <radialGradient id="nodeGrad" cx="50%" cy="30%" r="70%">
-      <stop offset="0%" stop-color="#fff"/>
-      <stop offset="30%" stop-color="#7fffd4"/>
-      <stop offset="100%" stop-color="#8a2be2" stop-opacity="0.2"/>
-    </radialGradient>
-
-    <style>
-      .bg { fill: url(#g1); opacity: 0.12; }
-      .gridline { stroke: rgba(120,0,200,0.35); stroke-width:1; stroke-linecap:round; filter:url(#glow); }
-      .node { fill: url(#nodeGrad); filter:url(#glow); }
-      .title { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight:700; fill: white; }
-      .subtitle { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial; fill: #a7f0ff; font-weight:600; }
-      .tag { font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial; fill: #ffd6f0; font-size:14px; }
-      .pulse { animation: pulse 2.4s ease-in-out infinite; }
-      @keyframes pulse {
-        0% { transform: scale(1); opacity:1; }
-        50% { transform: scale(1.35); opacity:0.6; }
-        100% { transform: scale(1); opacity:1; }
-      }
-    </style>
-  </defs>
-
-  <!-- background gradient -->
-  <rect class="bg" x="0" y="0" width="1200" height="260" rx="6"/>
-
-  <!-- moving neural lines (a few animated paths) -->
-  <g id="network" transform="translate(40,20)" stroke-linecap="round" stroke-linejoin="round">
-    <path class="gridline" d="M20 160 C150 30, 350 30, 520 150" stroke-width="1.6">
-      <animate attributeName="d" dur="10s" repeatCount="indefinite"
-        values="
-          M20 160 C150 30, 350 30, 520 150;
-          M40 150 C170 50, 370 10, 540 140;
-          M20 160 C150 30, 350 30, 520 150" />
-    </path>
-    <path class="gridline" d="M240 100 C380 200, 620 200, 760 90" stroke-width="1.4">
-      <animate attributeName="d" dur="12s" repeatCount="indefinite"
-        values="
-          M240 100 C380 200, 620 200, 760 90;
-          M240 120 C380 180, 620 160, 760 120;
-          M240 100 C380 200, 620 200, 760 90" />
-    </path>
-    <path class="gridline" d="M680 160 C820 60, 980 220, 1100 90" stroke-width="1.3">
-      <animate attributeName="d" dur="14s" repeatCount="indefinite"
-        values="
-          M680 160 C820 60, 980 220, 1100 90;
-          M700 140 C840 90, 980 200, 1090 120;
-          M680 160 C820 60, 980 220, 1100 90" />
-    </path>
-  </g>
-
-  <!-- nodes (animated circles) -->
-  <g id="nodes" transform="translate(40,20)">
-    <circle class="node pulse" cx="24" cy="162" r="6" />
-    <circle class="node" cx="150" cy="40" r="5">
-      <animate attributeName="r" values="4;7;4" dur="3.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle class="node" cx="350" cy="30" r="6">
-      <animate attributeName="r" values="5;10;5" dur="4.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle class="node" cx="520" cy="150" r="7" />
-    <circle class="node" cx="380" cy="200" r="5">
-      <animate attributeName="cy" values="200;180;200" dur="5s" repeatCount="indefinite"/>
-    </circle>
-    <circle class="node" cx="760" cy="90" r="6" />
-    <circle class="node" cx="980" cy="220" r="5">
-      <animate attributeName="r" values="3;8;3" dur="3.6s" repeatCount="indefinite"/>
-    </circle>
-    <circle class="node" cx="1100" cy="90" r="6" />
-  </g>
-
-  <!-- faint code-like matrix lines -->
-  <g font-family="monospace" font-size="11" fill="#00ffcc" opacity="0.06">
-    <text x="40" y="40">101010110011</text>
-    <text x="580" y="30">110011001100</text>
-    <text x="980" y="30">001100110011</text>
-    <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="-40 0" begin="0s" dur="20s" repeatCount="indefinite"/>
-  </g>
-
-  <!-- Title + Subtitle -->
-  <g transform="translate(60,60)">
-    <text class="title" x="0" y="40" font-size="44">Abilash RG</text>
-    <text class="subtitle" x="0" y="80" font-size="20">Data and Ai engineer</text>
-
-    <!-- tags -->
-    <g transform="translate(0,110)">
-      <rect x="0" y="-18" rx="6" ry="6" width="260" height="28" fill="#0f1226" opacity="0.55"/>
-      <text class="tag" x="12" y="2" font-size="13">⚡ AWS • DevOps • AI/ML • Data Engineering</text>
-    </g>
-  </g>
-
-  <!-- small animated icons (represented as colored circles) -->
-  <g transform="translate(860,40)">
-    <circle cx="0" cy="0" r="14" fill="#ff9900" filter="url(#glow)">
-      <animate attributeName="cx" values="0;6;0" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <text x="28" y="5" font-size="14" fill="#fff" font-family="Segoe UI, Roboto">AWS</text>
-
-    <g transform="translate(0,40)">
-      <circle cx="0" cy="0" r="12" fill="#00d1ff" filter="url(#glow)">
-        <animate attributeName="cy" values="0;6;0" dur="2.6s" repeatCount="indefinite"/>
-      </circle>
-      <text x="28" y="5" font-size="14" fill="#fff" font-family="Segoe UI, Roboto">SageMaker</text>
-    </g>
-
-    <g transform="translate(0,80)">
-      <circle cx="0" cy="0" r="12" fill="#b26bff" filter="url(#glow)">
-        <animate attributeName="r" values="10;14;10" dur="3.2s" repeatCount="indefinite"/>
-      </circle>
-      <text x="28" y="5" font-size="14" fill="#fff" font-family="Segoe UI, Roboto">K8s</text>
-    </g>
-  </g>
-</svg>
-</p>
+## 🔮 𝙾𝙿𝙴𝚁𝙰𝚃𝙾𝚁_𝙿𝚁𝙾𝙵𝙸𝙻𝙴
+> **`[IDENTITY]`**: Abilash EG > **`[CLASS]`**: Data & AI Engineer | Cloud Architect > **`[FACTION]`**: Quadrasystems.net > **`[ORIGIN]`**: B.Tech Cloud Computing & Automation (VIT Bhopal '25) ```bash
+user@abilash-terminal:~$ ./achievements --list
+> 🏆 WINNER: Migratapalooza Hackathon 2025 (Database Modernization) # > ☁️ CERTIFIED: AWS Data Engineer Associate (DEA-C01) # > ☁️ CERTIFIED: AWS Cloud Practitioner # > 🧠 BUILDING: Agentic AI Frameworks & L1 Automation Bots # ```
 
 ---
 
-# 👋 Hello — I'm **Abilash RG**
-**Data and Ai engineer** — I build cloud-native data & AI systems, automation, and production-ready pipelines.
+## 🧬 𝙽𝙴𝚄𝚁𝙰𝙻_𝚂𝚃𝙰𝙲𝙺
+
+<div align="center">
+
+| **[CLOUD_INFRA]** | **[SYNTH_INTELLIGENCE]** | **[DEV_OPS_CORE]** |
+| :---: | :---: | :---: |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | ![GenAI](https://img.shields.io/badge/GEN_AI-00F0FF?style=flat-square&logo=openai&logoColor=white) | ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white) | ![Bedrock](https://img.shields.io/badge/BEDROCK-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| ![Lambda](https://img.shields.io/badge/LAMBDA-FF9900?style=flat-square&logo=aws-lambda&logoColor=white) | ![SageMaker](https://img.shields.io/badge/SAGEMAKER-232F3E?style=flat-square&logo=amazon-sagemaker&logoColor=white) | ![Nginx](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white) |
+| ![Glue](https://img.shields.io/badge/GLUE-527FFF?style=flat-square&logo=amazon-aws&logoColor=white) | ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=flat-square&logo=langchain&logoColor=white) | ![Jenkins](https://img.shields.io/badge/JENKINS-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+
+</div>
 
 ---
 
-## 🚀 Quick Snapshot
-- 🌐 Portfolio: https://abilasheg.vercel.app/  
-- ✉️ Email: abilashgomathi7@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/abilash-eg-202429251  
-- 🧑‍🎓 CSE Student (VIT) — focused on Data Engineering, ML Ops & Cloud
+## ⚡ 𝙰𝙲𝚃𝙸𝚅𝙴_𝙿𝚁𝙾𝙲𝙴𝚂𝚂𝙴𝚂
+*// Monitoring Log Stream - November 2025*
+
+```yaml
+PROCESS_ID_01:
+  Task: "L1 Activity Automation Bot Deployment" Status: "PRODUCTION_READY"
+  Stack: "Python/Flask + React 18 + Nginx + EC2" Output: "Generating 6MB+ reports in 60 seconds" PROCESS_ID_02:
+  Task: "Agentic AI Farm Advisor" Status: "RUNNING"
+  Stack: "AWS Bedrock + Agent Core + LangGraph" Objective: "Generative AI Catalyst implementation" PROCESS_ID_03:
+  Task: "Org Chart Visualization Engine" Status: "OPTIMIZED"
+  Stack: "D3.js + SVG Algorithms" Metrics: "Rendering 50+ nodes with custom hierarchy logic" ```
 
 ---
 
-## ✅ Certifications (completed)
-- **AWS Cloud Practitioner**  
-- **AWS Data Engineer Associate**
+## 💾 𝚂𝚈𝚂𝚃𝙴𝙼_𝙻𝙾𝙶𝚂: 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
+
+### 💠 **PROJECT: L1_AWS_ASSESSMENT_BOT**
+> **`[STATUS]`**: **MISSION CRITICAL / DEPLOYED** > **`[TECH]`**: Python, Boto3, STS, Cost Explorer, React > * **Objective:** Automate compliance checks across **11 AWS Regions** simultaneously. > * **Performance:** Reduced 4+ hours of manual work to **~60 seconds**. > * **Features:** Auto-generates branded DOCX reports with Cost Analysis, Security checks, and CloudWatch validation. ### 💠 **PROJECT: HR_MANAGEMENT_SYNTH**
+> **`[STATUS]`**: **COMPLETED** > **`[TECH]`**: Cognito, Textract, Bedrock (DeepSeek), DynamoDB > * **Objective:** End-to-end hiring automation pipeline. > * **AI Integration:** Uses **Amazon Textract** to parse resumes and **Bedrock** to generate dynamic interview questions based on candidate extraction. > * **Impact:** Reduced processing time by **75%** for 500+ profiles. ### 💠 **PROJECT: DIABETES_PREDICTION_ML**
+> **`[STATUS]`**: **TRAINING COMPLETE** > **`[TECH]`**: SageMaker, XGBoost, Logistic Regression > * **Accuracy:** **94.5%** | **AUC:** 0.9908 > * **Logic:** Implemented 3-tier risk classification (Low/High) with clinically validated feature engineering. > * **Output:** Generates personalized health/diet guidance. ---
+
+## 📊 𝙽𝙴𝚃𝚆𝙾𝚁K_𝚃𝙴𝙻𝙴𝙼𝙴𝚃𝚁𝚈
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbilashEG&show_icons=true&theme=radical&hide_border=true&bg_color=101010" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilashEG&layout=compact&theme=radical&hide_border=true&bg_color=101010" height="180" alt="languages graph"  />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbilashEG&theme=radical&hide_border=true&background=101010" alt="streak graph" />
+</div>
 
 ---
 
-## 🛠️ Core Skills & Tools
-**Cloud & DevOps:** AWS (EC2, S3, Lambda, IAM), CloudWatch, Terraform basics, Docker, Kubernetes, Jenkins, GitHub Actions  
-**Data & ML:** Python, Pandas, NumPy, Scikit-learn, SageMaker, Bedrock integrations (LLM), ML model deployment (Flask/SageMaker)  
-**Datastores & Analytics:** DynamoDB, RDS, MySQL, PostgreSQL, Athena, Glue  
-**OS & Infra:** Linux (daily user), shell scripting, monitoring & alerting
-
----
-
-## 🔭 Current Focus / Projects
-- AI-Powered Trip Travel Planner (AgentCore + Bedrock + Live APIs)  
-- Smart HR Interview Management (Resume parsing, Bedrock QG, DynamoDB)  
-- EC2 L1 Automation Chatbot (Bedrock → Lambda → EC2 + CloudWatch)  
-- ML deployments: Diabetes prediction (XGBoost) → SageMaker endpoint → Flask UI
-
----
-
-## 🧩 Featured Project Links
-*(Add links to your repos when ready — examples below are placeholders you can replace)*
-
-- https://github.com/abilasheg/ai-trip-planner  
-- https://github.com/abilasheg/smart-hr-interview-system  
-- https://github.com/abilasheg/diabetes-predictor-sagemaker
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abilasheg&show_icons=true&theme=tokyonight" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilasheg&layout=compact&theme=tokyonight" height="140"/>
-</p>
-
----
-
-## 🔗 Connect
-[LinkedIn](https://linkedin.com/in/abilash-eg-202429251) • [Portfolio](https://abilasheg.vercel.app/) • abilashgomathi7@gmail.com
-
----
-
-> **Life motto:** *“Be prepared for the worst-case scenario — just like developers design for worst-case time complexity.”*
-
----
+<div align="center">
+  <code>[SYSTEM MESSAGE]: END_OF_LINE. AWAITING INPUT...</code>
+</div>
