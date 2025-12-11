@@ -1,6 +1,6 @@
 🚀 Hello, I'm Abilash EG!
 AWS | DevOps | AI/ML | Data Engineering | Cloud Solutions
-<p align="center"> <img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" width="600" /> </p> <p align="center"> <a href="https://abilasheg.vercel.app/">🌐 Portfolio</a> • <a href="https://www.linkedin.com/in/abilash-eg-202429251/">LinkedIn</a> • <a href="mailto:abilashgomathi7@gmail.com">Email</a> </p> <p align="center"> <img src="https://vbr.nathanchung.dev/badge?page_id=AbilashEG.readme&color=00ff99"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/AbilashEG/Abilash/master/intro.gif" width="600" /> </p> <p align="center"> <a href="https://abilasheg.vercel.app/">🌐 Portfolio</a> • <a href="https://www.linkedin.com/in/abilash-eg-202429251/">LinkedIn</a> • <a href="mailto:abilashgomathi7@gmail.com">Email</a> </p> <p align="center"> <img src="https://vbr.nathanchung.dev/badge?page_id=AbilashEG.readme&color=00ff99"> </p>
 📘 About Me
 
 ☁️ Cloud & ML Engineer focusing on AWS, DevOps, AI/ML and Data Engineering
