@@ -1,104 +1,124 @@
-<!-- Animated Intro Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Banners/cloud-banner.gif" width="100%" />
-</p>
+<h1 align="center">Hello 👋, I'm Abilash EG</h1>
+<h3 align="center">AWS | DevOps | AI/ML | Data Analytics | Cloud & Linux Enthusiast</h3>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#ff9900">Abilash EG</span></h1>
-
-<h3 align="center">
-🚀 AWS | DevOps | Machine Learning | AI | Data Analytics | Linux  
-</h3>
+---
 
 <p align="center">
-  <img src="https://vbr.wocr.tk/badge?page_id=AbilashEG&color=00cf00" alt="visitors"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=38B6FF&size=22&center=true&vCenter=true&width=600&lines=AWS+Cloud+Engineer+%7C+DevOps+Enthusiast;AI+%26+Machine+Learning+Practitioner;Data+Analytics+%26+Data+Engineering;SDE+Intern+Aspiring+%7C+CSE+Student+from+VIT" />
 </p>
 
 ---
 
-## 🔥 **About Me**
-- 🌩️ Cloud & DevOps Engineer | AWS Certified Cloud Practitioner  
-- 🤖 Exploring AI, ML, LLMs, and Data Engineering  
-- 🐧 Passionate Linux user  
-- 🛠 Building intelligent automation & cloud-native apps  
-- 🎓 CSE Student from VIT  
-- 🌐 Portfolio: **https://abilasheg.vercel.app**  
-- 📫 Reach me: **abilashgomathi7@gmail.com**  
-- 💡 Motto: *“Be ready for the worst case — just like developers prepare for worst-case time complexity.”*
+## 🚀 **About Me**
+- 🎓 CSE Student at VIT  
+- ☁️ AWS Certified Cloud Practitioner  
+- 🔧 Skilled in **AWS | DevOps | Docker | Kubernetes | Python | AI/ML | Data Engineering | Data Analytics | Linux**
+- 🌱 Currently learning: **Advanced DevOps, CI/CD, Kubernetes, AI Agents, Cloud Automation**
+- 💬 Ask me about: **AWS, DevOps, AI/ML, Data Engineering, Cloud Projects, Python**
+- 📫 Reach me at: **abilashgomathi7@gmail.com**
+- 🌐 Portfolio: **https://abilasheg.vercel.app/**
+- 📄 Resume:  
+  https://drive.google.com/file/d/16J3RQ_YaipYYbWEA91LfixeA4FtSnYum/view?usp=sharing
+- 🎓 Certifications Folder:  
+  https://drive.google.com/drive/folders/1_gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL
 
 ---
 
-## 🎓 **Certifications**
-📁 All my certificates:  
-👉 **[Google Drive – Certifications](https://drive.google.com/drive/folders/1_gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL?usp=drive_link)**
-
----
-
-# 🎞️ **Animated Tech Stack Banner**
+## 🌟 **Animated Skills Banner**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Banners/tools-banner.gif" width="95%" />
+  <img src="https://i.imgur.com/4M7IWwP.gif" width="500" />
 </p>
 
 ---
 
-# 🛠 **Tech Stack & Tools**
+## 🛠️ **Technologies I Work With**
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,linux" />
+### ☁️ **Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure" />
 </p>
 
-### 🤖 AI / ML / Data
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,mysql,postgresql" />
+### 🧠 **AI / Machine Learning**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-### 🌐 Web & Others
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flask,react" />
+### 🔧 **DevOps & Automation**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,githubactions" />
+</p>
+
+### 🗂️ **Databases & Analytics**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 💻 **Programming**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
+
+### 🐧 **Operating Systems**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
 
-# 🎬 **Cool Tech Animations**
+## ⚡ **Highlighted Tools & Platforms**
+- AWS (EC2, S3, Lambda, DynamoDB, Bedrock, SageMaker, CloudWatch, IAM)
+- Docker, Kubernetes, Jenkins CI/CD
+- Python, Pandas, NumPy, Matplotlib
+- Linux System Administration
+- ML Model Deployment (SageMaker, Flask)
+- AI Projects (Bedrock + DeepSeek + Claude)
+- Data Engineering Pipelines
+
+---
+
+## 🏆 **Badges**
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-Enthusiast-blue?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Engineer-green?style=for-the-badge&logo=python" />
+</p>
+
+---
+
+## 🔥 **GitHub Stats**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/High-Tech/cloud-ml.gif" width="350" />
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/High-Tech/ai-brain.gif" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abilasheg&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilasheg&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-# 📂 **Highlighted Projects**
-### 🔹 AI-Powered Trip Travel Planner  
-➡ AgentCore + LLM + Real-time APIs  
-
-### 🔹 Smart HR Interview System  
-➡ Resume parsing, Bedrock LLM QnA, DynamoDB  
-
-### 🔹 Movie Ticket Booking Bot  
-➡ Bedrock DeepSeek + NLP + DynamoDB  
-
-### 🔹 ML Projects  
-➡ Diabetes Prediction, Sagemaker deployment  
+## 📈 **GitHub Streak**
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=abilasheg&theme=tokyonight" />
+</p>
 
 ---
 
-# 🚀 What I’m Currently Doing  
-```yaml
-learning:
-  - AWS Advanced Services
-  - DevOps CI/CD (Docker, K8s, Jenkins)
-  - ML + AI tools (SageMaker, Bedrock)
-  - Data Engineering (ETL, Pipelines)
-  - Linux + Cloud Networking
+## ✨ **Connect With Me**
+<p align="left">
+<a href="https://linkedin.com/in/abilash-eg-202429251" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/abilashgomathi7" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="45"/>
+</a>
+</p>
 
-working_on:
-  - AI agent automation
-  - Cloud-native backend apps
-  - ML model deployments on AWS
-🔗 Connect With Me
-<p align="left"> <a href="https://linkedin.com/in/www.linkedin.com/in/abilash-eg-202429251" target="blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="https://auth.geeksforgeeks.org/user/abilashgomathi7" target="blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" /> </a> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbilashEG&theme=tokyonight" width="48%"> <img src="https://github-readme-stats.vercel.app/api?username=AbilashEG&show_icons=true&theme=tokyonight" width="48%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilashEG&layout=compact&theme=tokyonight" width="40%"> </p>
-⚡ Fun Touch
-<p align="center"> <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Banners/coding.gif" width="60%"/> </p>
-<p align="center"> ✨ *Thanks for visiting my profile!* ✨ </p> ```
+---
+
+## 🧠 **Quote of My Life**
+> *“Be prepared for the worst-case scenario, the same way developers approach problems with worst-case time complexity.”*
+
+---
+
+## 🎯 **My Vision**
+To innovate and build **cloud-native, AI-powered, and automated** systems that solve real-world challenges.
+
+---
+
