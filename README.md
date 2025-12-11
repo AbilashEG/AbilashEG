@@ -1,18 +1,17 @@
-<!-- ========================================================= -->
-<!-- CYBERPUNK NEURAL-NETWORK ANIMATED BANNER (NODE BURST)     -->
-<!-- ========================================================= -->
-
 <p align="center">
 <svg width="100%" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <!-- Glow -->
+    <!-- Glow Filter -->
     <filter id="glow">
       <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
 
-    <!-- Radial Node Gradient -->
+    <!-- Node Burst Gradient -->
     <radialGradient id="nodeGrad" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#ffffff"/>
       <stop offset="40%" stop-color="#7fffd4"/>
@@ -29,9 +28,8 @@
   <!-- Background -->
   <rect width="1200" height="260" fill="url(#bgGrad)"/>
 
-  <!-- Random neural nodes -->
-  <g id="nodes" filter="url(#glow)">
-    <!-- 18 animated nodes -->
+  <!-- ANIMATED NODES -->
+  <g filter="url(#glow)">
     <circle cx="150" cy="80" r="14" fill="url(#nodeGrad)">
       <animate attributeName="r" values="12;20;12" dur="3.8s" repeatCount="indefinite"/>
     </circle>
@@ -66,8 +64,8 @@
     </circle>
   </g>
 
-  <!-- Cyberpunk Lines -->
-  <g stroke="#9d4cff" stroke-width="2" opacity="0.55" filter="url(#glow)">
+  <!-- CONNECTING CYBER LINES -->
+  <g stroke="#a754ff" stroke-width="2" opacity="0.6" filter="url(#glow)">
     <line x1="150" x2="450" y1="80" y2="200">
       <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
     </line>
@@ -79,9 +77,13 @@
     </line>
   </g>
 
-  <!-- Name + Title -->
-  <text x="50%" y="120" text-anchor="middle" font-size="48" fill="#ffffff" font-family="Segoe UI" filter="url(#glow)">ABILASH RG</text>
-  <text x="50%" y="165" text-anchor="middle" font-size="26" fill="#7fffd4" font-family="Segoe UI" filter="url(#glow)">DATA & AI ENGINEER</text>
+  <!-- NAME + TITLE -->
+  <text x="50%" y="125" text-anchor="middle" font-size="48" fill="#ffffff" font-family="Segoe UI" filter="url(#glow)">
+    ABILASH RG
+  </text>
+  <text x="50%" y="170" text-anchor="middle" font-size="26" fill="#7fffd4" font-family="Segoe UI" filter="url(#glow)">
+    DATA & AI ENGINEER
+  </text>
 
 </svg>
 </p>
@@ -89,105 +91,81 @@
 ---
 
 # 🧠 About Me
-Data & AI Engineer with hands-on experience building real-time automation systems, generative AI platforms, agentic workflows, ML deployments, and production-grade cloud applications across AWS services.
+Data & AI Engineer with hands-on experience building real-time automation systems, generative AI platforms, agentic workflows, ML deployments, and production-grade applications using AWS cloud.
 
 ---
 
 # 🚀 Key Projects & Deliverables
 
 ## **1️⃣ L1 AWS Assessment & Activity Bot (Production)**
-**Architecture:** EC2 + Flask + React + Nginx + Gunicorn  
-**Outcome:** Reduced manual assessment time from **4+ hours → ~60 seconds**
-
-### 🔥 Highlights
-- Production deployment across EC2 with full automation  
-- Multi-account + 11-region scanning  
-- Automated CloudWatch Agent installation (Linux/Windows/Ubuntu) via SSM  
-- 3-month Cost Explorer trend analysis  
-- Storage optimizer (GP2 → GP3)  
-- Generates **6MB+ branded DOCX reports** (charts + diagrams)
+- EC2 + Flask + React + Nginx + Gunicorn  
+- Reduced manual assessment time **4+ hours → 60 seconds**  
+- Multi-account scanning across **11 AWS regions**  
+- Automated CloudWatch Agent installation for Linux/Windows/Ubuntu (SSM)  
+- 3-month cost analysis (Cost Explorer API)  
+- GP2 → GP3 automation  
+- Generates **6MB+ DOCX reports** (Matplotlib charts + diagrams)
 
 ---
 
 ## **2️⃣ Generative & Agentic AI Solutions**
 
-### HR Interview Management System  
+### **HR Interview Management System**
 - Cognito auth  
-- Textract resume parsing  
-- Bedrock DeepSeek question generator  
-- DynamoDB candidate storage  
-- Full dashboard integration  
+- Textract parsing  
+- Bedrock DeepSeek questions  
+- DynamoDB storage  
+- Dashboard integration  
 
-### Agentic AI Farm Advisor  
-- AgentCore logic  
-- NLP task planning  
-- Backend execution orchestration  
+### **Agentic AI Farm Advisor**  
+- AgentCore concepts  
+- Backend reasoning chain  
 
-### Healthcare Agent  
+### **Healthcare Agent**  
 - Prescription automation  
-- DynamoDB schema  
-- Gateway flow  
+- DynamoDB + API Gateway  
 
-### Movie Booking Bot  
+### **Movie Booking Bot**  
 - Bedrock Agent  
-- Lambda + API Gateway  
-- Auto-fills seat/time/theater with reasoning  
+- Auto seat/time/theater filling  
 
 ---
 
-## **3️⃣ Data Visualization & Machine Learning**
+## **3️⃣ ML & Visualization**
+- **Diabetes Model** (XGBoost + Logistic Regression)  
+  - 94.5% accuracy, AUC 0.9908  
+  - SageMaker deployment  
 
-### Diabetes Prediction Model  
-- XGBoost + Logistic Regression  
-- **94.5% accuracy, AUC 0.9908**  
-- SageMaker deployment  
-- Risk-level UI  
+- **D3.js Org Chart**  
+  - Dynamic auto-layout  
 
-### D3.js Org Chart  
-- Dynamic node rendering  
-- Auto-fit logic  
-
-### QuickSight Dashboards  
-- HR analytics  
-- ETL via Glue DataBrew  
+- **QuickSight Dashboards**  
+  - DataBrew ETL pipelines  
 
 ---
 
-# 🧩 Tech Stack & Tools
+# 🧩 Tech Stack
 
-### 🏗 Cloud  
-EC2, Lambda, S3, SSM, IAM, CloudWatch, API Gateway, Step Functions, DynamoDB
+### ☁ Cloud  
+EC2, Lambda, S3, SSM, IAM, CloudWatch, API Gateway, DynamoDB  
 
-### 🤖 AI/ML  
-Bedrock (Agents, Guardrails, DeepSeek), SageMaker, Textract, Comprehend, Rekognition
+### 🤖 AI  
+Bedrock Agents, DeepSeek, SageMaker, Textract, Comprehend, Rekognition  
 
 ### 🗄 Data  
-Glue, Athena, Redshift, QuickSight, Kinesis, IoT Core  
+Glue, Athena, Redshift, QuickSight, IoT Core, Kinesis  
 
-### 🔧 Development  
-Python, Flask, React.js, Node.js, Docker, Nginx, D3.js, Matplotlib  
+### 🛠 Dev  
+Python, Flask, Node.js, React.js, Docker, Nginx, D3.js  
 
 ---
 
 # 🏆 Achievements & Certifications
-
-### 🥇 Hackathon  
-**Winner — Migratapalooza Hackathon 2025 (Database Modernization)**
-
-### 🎓 Certifications  
-- AWS Certified Data Engineer — Associate (DEA-C01)  
-- AWS Certified Cloud Practitioner  
-
-### 🏛 Workshops  
-- AWS Well-Architected Partner Workshop (Bengaluru)  
-  - GenAI + Agentic AI integrations  
+- 🥇 **Winner — Migratapalooza Hackathon 2025**  
+- 🎓 **AWS Data Engineer Associate**  
+- 🎓 **AWS Cloud Practitioner**  
+- 🏛 **AWS Well-Architected Partner Workshop**  
 
 ---
-
-# 🌐 Connect With Me
-<p align="left">
-  <a href="https://github.com/abilasheg"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/abilash-eg"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
 
 <p align="center">⚡ Cyberpunk Neural-Network Powered README ⚡</p>
