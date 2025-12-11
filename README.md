@@ -1,23 +1,99 @@
-<h1 align="center">Hello 👋, I'm Abilash EG</h1>
-<h3 align="center">AWS Certified Cloud Practitioner| DevOps Enthusiast |AI|Data Analytics| CSE student From VIT </h3>
+🌟 Hello, I'm Abilash EG
+🚀 AWS | DevOps | AI/ML | Data Engineering | Analytics | Cloud Enthusiast
+<p align="center"> <img src="https://github-profile-readme-stats.vercel.app/api?username=abilasheg&show_icons=true&theme=tokyonight" alt="stats" width="48%"/> <img src="https://github-profile-readme-streak-stats.herokuapp.com?user=abilasheg&theme=tokyonight" alt="streak" width="48%"/> </p>
+👨‍💻 About Me
 
-- 📋My certifications [Certifications](https://drive.google.com/drive/folders/1_gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL?usp=drive_link)
+☁️ AWS Certified Cloud Practitioner
 
-- 🌱 I’m currently learning **CI-CD Tools like Jenkins | Docker | Kubernetes |AI tools |Data Analytics**
+🛠️ DevOps Enthusiast working with CI/CD, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
 
-- 💬 Ask me about **AWS Cloud , DevOps Engineering, AI,Data Analytics, data engineering**
+🤖 Building hands-on AI/ML applications using AWS Bedrock, SageMaker & Python
 
-- 📫 How to reach me **abilashgomathi7@gmail.com**
+📊 Exploring Data Analytics & Engineering
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/16J3RQ_YaipYYbWEA91LfixeA4FtSnYum/view?usp=sharing))]
--  MY portfolio website- https://abilasheg.vercel.app/
-- ⚡ Takeaway's from my life & Programmer community : **In life, be prepared for the worst-case scenario, just as developers tackle problems with worst case time-complexity in mind.**
+💡 Passionate about automation, cloud-native design & solving real-world tech challenges
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abilash-eg-202429251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abilash-eg-202429251" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abilashgomathi7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abilashgomathi7" height="30" width="40" /></a>
-</p>
+💼 Portfolio: https://abilasheg.vercel.app/
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+📧 Reach me at abilashgomathi7@gmail.com
+
+🎓 Certifications
+
+📂 All Certificates:
+🔗 https://drive.google.com/drive/folders/1_gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL?usp=drive_link
+
+🚀 What I'm Currently Learning
+
+CI/CD pipelines with Jenkins, GitHub Actions
+
+Docker & Kubernetes (EKS)
+
+AI tools, AWS Bedrock, LLM Agents
+
+Data Analytics (SQL, Pandas, Power BI)
+
+Linux Administration
+
+Advanced AWS Services (SageMaker, ECS, Lambda, DynamoDB)
+
+🧠 Ask Me About
+
+AWS Cloud
+
+DevOps Engineering
+
+AI/ML, Bedrock, SageMaker
+
+Data Analytics & Data Engineering
+
+Python, Automation, Cloud Projects
+
+🛠️ Skills & Technologies
+☁️ Cloud & DevOps
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/> </p>
+🤖 AI / ML & Data
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/> </p>
+🌐 Frontend Basics
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/> </p>
+🧩 Featured Projects
+🔥 1. AI-Powered Trip Travel Planner with AWS AgentCore (In Build)
+
+Fully agentic travel planner
+
+Real-time APIs (Flights, Hotels, Weather, Tourism)
+
+Bedrock with DeepSeek Model
+
+🤖 2. Smart HR Interview Management System (Full AI + AWS)
+
+Resume extraction
+
+Bedrock question generation
+
+Candidate tracking + Scheduling
+
+Dashboard on AWS
+
+🧠 3. Diabetes Prediction System
+
+XGBoost model
+
+Flask Web App deployment
+
+SageMaker model endpoint
+
+⚡ 4. Movie Ticket Booking Bot
+
+AWS Bedrock + DynamoDB
+
+Real-time seat booking engine
+
+Cinema chatbot built end-to-end
+
+👉 More in repositories…
+
+🔗 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/abilash-eg-202429251" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/> </a> <a href="https://auth.geeksforgeeks.org/user/abilashgomathi7" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40"/> </a> </p>
+⚡ Quote I Live By
+
+“Always be prepared for the worst-case scenario — just like a developer approaches problems with worst-case time complexity in mind.”
