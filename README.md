@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://i.imgur.com/zJ0ZNxN.gif" width="100%" alt="Cyberpunk Neural Network AI/ML">
+  <!-- Cyberpunk / AI banner (stable hosted GIF) -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Banners/cloud-ml.gif" width="100%" alt="Cyberpunk Neural Network AI/ML" />
 </p>
 
-# <span style="color: #00E7FF">Hey, I'm <b>Abilash EG</b></span> 👨‍💻🔥
+# Hey, I'm **Abilash EG** 👨‍💻🔥
 
 <h3 align="center">
-  <span style="color: #7FFFD4">AWS Certified Cloud Practitioner</span> ·
-  <span style="color: #FF6B9D">AI/ML AgentCore Engineer</span> ·
-  <span style="color: #00D4AA">DevOps Automation</span> ·
-  <span style="color: #FFD700">Data Engineering</span>
+  AWS Certified Cloud Practitioner · AI/ML AgentCore Engineer · DevOps Automation · Data Engineering
 </h3>
 
 <p align="center">
@@ -17,11 +15,12 @@
 
 ---
 
-## 🌐 <span style="color: #A7F0FF">Neural Network Profile</span>
+## 🌐 Neural Network Profile
 
-<div align="center">
-  <img src="https://i.imgur.com/VDZfF12.gif" width="85%" alt="Animated Neural Connections - Bedrock Agents">
-</div>
+<p align="center">
+  <!-- Neural / matrix style GIF -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/High-Tech/ai-brain.gif" width="70%" alt="Animated Neural Connections" />
+</p>
 
 | **About Me** | **Current Focus** |
 |--------------|-------------------|
@@ -38,7 +37,7 @@
 
 ---
 
-## 🔥 <span style="color: #FF6B9D">Featured Neural Projects</span>
+## 🔥 Featured Neural Projects
 
 | Project | Description | Tech Stack | Status |
 |--------|-------------|-----------|--------|
@@ -50,29 +49,28 @@
 
 ---
 
-## 🛠️ <span style="color: #00D4AA">Cyberpunk Neural Tech Stack</span>
-
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,bedrock,sagemaker,docker,kubernetes,jenkins,terraform,linux,python,tensorflow,pytorch,sklearn,dynamodb,postgres,mysql,flask,react,nginx&perline=12" />
-</div>
-
----
-
-## 📈 <span style="color: #7FFFD4">Neural Network Stats</span>
+## 🛠️ Cyberpunk Neural Tech Stack
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abilasheg&show_icons=true&theme=radical&border_radius=20&title_color=FF6B9D&icon_color=00E7FF&text_color=A7F0FF&bg_color=0a0014" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilasheg&layout=compact&theme=radical&border_radius=20&title_color=FF6B9D&text_color=A7F0FF&bg_color=0a0014" />
+  <img src="https://skillicons.dev/icons?i=aws,bedrock,sagemaker,docker,kubernetes,jenkins,terraform,linux,python,tensorflow,pytorch,sklearn,dynamodb,postgres,mysql,flask,react,nginx&perline=12" />
 </p>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abilasheg&theme=radical&border_radius=20&fire=FF6B9D&ring=00E7FF&currStreakLabel=A7F0FF&background=0a0014" />
-</div>
 
 ---
 
-## 🏅 <span style="color: #FF9900">Certifications Wall</span>
+## 📈 Neural Network Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AbilashEG&show_icons=true&theme=radical&border_radius=20&title_color=FF6B9D&icon_color=00E7FF&text_color=A7F0FF&bg_color=0a0014" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbilashEG&layout=compact&theme=radical&border_radius=20&title_color=FF6B9D&text_color=A7F0FF&bg_color=0a0014" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AbilashEG&theme=radical&border_radius=20&fire=FF6B9D&ring=00E7FF&currStreakLabel=A7F0FF&background=0a0014" />
+</p>
+
+---
+
+## 🏅 Certifications Wall
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
@@ -81,48 +79,8 @@
   <a href="https://abilasheg.vercel.app">
     <img src="https://img.shields.io/badge/AI%2FML-Neural%20Engineer-00E7FF?style=for-the-badge&logo=brain&logoColor=white" />
   </a>
-  <a href="https://github.com/abilasheg?tab=repositories">
+  <a href="https://github.com/AbilashEG?tab=repositories">
     <img src="https://img.shields.io/badge/DevOps-Automation-00D4AA?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
   <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
-    <img src="https://img.shields.io/badge/Data%20Engineering-Pipelines-FFD700?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🔗 <span style="color: #A7F0FF">Connect Neural Nodes</span>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abilash-eg-202429251/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35">
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/abilashgomathi7">
-    <img src="https://img.shields.io/badge/GfG-54B4F8?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35">
-  </a>
-  <a href="https://abilasheg.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=vercel&logoColor=white" height="35">
-  </a>
-  <a href="mailto:abilashgomathi7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35">
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://i.imgur.com/JMnP5qM.gif" width="55%" alt="Cyberpunk Neural Network Glow">
-</div>
-
----
-
-## 🎯 <span style="color: #FF6B9D">Currently Training New Neural Paths</span>
-
-
----
-
-<div align="center">
-  <span style="color: #7FFFD4; font-size: 20px; font-weight: bold;">
-    ⚡ <em>"Neural networks thrive on worst-case complexity training — just like real-world production systems."</em> ⚡
-  </span>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Banners/more-banner.gif" width="55%">
-</div>
+    <img src="https://img.shields.io/badge/Data%20Engineering-Pipelines-FFD
