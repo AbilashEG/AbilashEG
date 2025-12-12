@@ -97,18 +97,18 @@
 ### 🏅 // VERIFIED CREDENTIALS [Security Clearances]
 
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
-    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="35"/>
-  </a>
-  <a href="https://abilasheg.vercel.app">
-    <img src="https://img.shields.io/badge/AI%2FML-Neural%20Engineer-00E7FF?style=for-the-badge&logo=brain&logoColor=white" height="35"/>
-  </a>
-  <a href="https://github.com/AbilashEG?tab=repositories">
-    <img src="https://img.shields.io/badge/DevOps-Automation-00D4AA?style=for-the-badge&logo=docker&logoColor=white" height="35"/>
-  </a>
-  <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
-    <img src="https://img.shields.io/badge/Data%20Engineering-Pipelines-FFD700?style=for-the-badge&logo=apache-airflow&logoColor=white" height="35"/>
-  </a>
+    <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="35"/>
+  </a>
+    <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
+    <img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="35"/>
+  </a>
+    <a href="https://abilasheg.vercel.app">
+    <img src="https://img.shields.io/badge/AI%2FML-Neural%20Engineer-00E7FF?style=for-the-badge&logo=brain&logoColor=white" height="35"/>
+  </a>
+    <a href="https://github.com/AbilashEG?tab=repositories">
+    <img src="https://img.shields.io/badge/DevOps-Automation-00D4AA?style=for-the-badge&logo=docker&logoColor=white" height="35"/>
+  </a>
 </p>
 
 ---
