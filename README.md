@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./cyber.png" width="100%" alt="Cyberpunk AI/ML Neural Brain Banner" />
+  <img src="./cyberpunk.png" width="100%" alt="Cyberpunk AI/ML Neural Brain Banner" />
 </p>
 
 <h1 align="center">⚡ SYSTEM UPLINK ESTABLISHED // IDENTITY: ABILASH EG ⚡</h1>
