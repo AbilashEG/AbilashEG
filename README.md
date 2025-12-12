@@ -99,30 +99,14 @@
 <samp>> INITIATING CREDENTIAL SCAN... FOUND 2 VALID CERTIFICATES.</samp>
 <br><br>
 
-<table>
-  <tr>
-    <td align="center" width="200">
-       <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
-         <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="45"/>
-       </a>
-    </td>
-    <td>
-       <samp><strong>[ID]:</strong> AWS Certified Cloud Practitioner</samp><br>
-       <samp><strong>[STATUS]:</strong> VERIFIED CLOUD FUNDAMENTALS</samp>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-       <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
-         <img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="45"/>
-       </a>
-    </td>
-    <td>
-       <samp><strong>[ID]:</strong> AWS Certified Data Engineer Associate</samp><br>
-       <samp><strong>[STATUS]:</strong> VERIFIED DATA PIPELINE ARCHITECT</samp>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40"/>
+  </a>
+  &nbsp; <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
+    <img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="40"/>
+  </a>
+</p>
 
 ---
 
