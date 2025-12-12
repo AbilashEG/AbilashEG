@@ -18,7 +18,7 @@
 
 ---
 
-### 🧠 // NEURAL NETWORK PROFILE [System Diagnostics]
+### 🧠 // PROFILE [System Diagnostics]
 
 > *"Architecting intelligent systems and wiring the synthetic cortex of the cloud."*
 
@@ -29,15 +29,15 @@
     <th><samp>[CURRENT_OPERATIONS]</samp></th>
   </tr>
   <tr>
-    <td>🤖 AI/ML engineer building neural solutions</td>
-    <td>👾 Focused on Bedrock AgentCore autonomous agents</td>
+    <td>🤖 AI/ML engineer </td>
+    <td>👾 worked on Bedrock AgentCore autonomous agents</td>
   </tr>
   <tr>
     <td>☁️ AWS Certified, production deployments</td>
     <td>🧬 Optimizing SageMaker ML lifecycle & MLOps</td>
   </tr>
   <tr>
-    <td>⚙️ DevOps: Docker, K8s, CI/CD pipelines</td>
+    <td>⚙️ DevOps: Docker, CI/CD pipelines</td>
     <td>⚡ Lambda & EC2 real-time automation</td>
   </tr>
   <tr>
