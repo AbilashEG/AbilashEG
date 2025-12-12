@@ -100,52 +100,43 @@
 <br><br>
 
 <table>
-  <tr>
-    <td align="center" width="200">
-       <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
-         <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="45"/>
-       </a>
-    </td>
-    <td>
-       <samp><strong>[ID]:</strong> AWS Certified Cloud Practitioner</samp><br>
-       <samp><strong>[STATUS]:</strong> VERIFIED CLOUD FUNDAMENTALS</samp>
-    </td>
-  </tr>
-    <tr>
-    <td align="center">
-       <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
-         <img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="45"/>
-       </a>
-    </td>
-    <td>
-       <samp><strong>[ID]:</strong> AWS Certified Data Engineer Associate</samp><br>
-       <samp><strong>[STATUS]:</strong> VERIFIED DATA PIPELINE ARCHITECT</samp>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-       <a href="https://abilasheg.vercel.app">
-         <img src="https://img.shields.io/badge/AI%2FML-Neural%20Engineer-00E7FF?style=for-the-badge&logo=brain&logoColor=white" height="45"/>
-       </a>
-    </td>
-    <td>
-       <samp><strong>[ID]:</strong> Neural Engineer / Portfolio</samp><br>
-       <samp><strong>[STATUS]:</strong> ACTIVE NEURAL NETWORKS</samp>
-    </td>
-  </tr>
-    <tr>
-    <td align="center">
-       <a href="https://github.com/AbilashEG?tab=repositories">
-         <img src="https://img.shields.io/badge/DevOps-Automation-00D4AA?style=for-the-badge&logo=docker&logoColor=white" height="45"/>
-       </a>
-    </td>
-    <td>
-       <samp><strong>[ID]:</strong> DevOps Automation Specialist</samp><br>
-       <samp><strong>[STATUS]:</strong> CI/CD PIPELINES OPERATIONAL</samp>
-    </td>
-  </tr>
+  <tr>
+    <td align="center" width="200">
+       <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
+         <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="45"/>
+       </a>
+    </td>
+    <td>
+       <samp><strong>[ID]:</strong> AWS Certified Cloud Practitioner</samp><br>
+       <samp><strong>[STATUS]:</strong> VERIFIED CLOUD FUNDAMENTALS</samp>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+       <a href="https://drive.google.com/drive/folders/1gQOBVVFYIXr0Zfg2G3xLu-hRN0iNflL">
+         <img src="https://img.shields.io/badge/AWS-Certified%20Data%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" height="45"/>
+       </a>
+    </td>
+    <td>
+       <samp><strong>[ID]:</strong> AWS Certified Data Engineer Associate</samp><br>
+       <samp><strong>[STATUS]:</strong> VERIFIED DATA PIPELINE ARCHITECT</samp>
+    </td>
+  </tr>
+  <tr>
+    
+  </tr>
+  <tr>
+    <td align="center">
+       <a href="https://github.com/AbilashEG?tab=repositories">
+         <img src="https://img.shields.io/badge/DevOps-Automation-00D4AA?style=for-the-badge&logo=docker&logoColor=white" height="45"/>
+       </a>
+    </td>
+    <td>
+       <samp><strong>[ID]:</strong> DevOps Automation Specialist</samp><br>
+       <samp><strong>[STATUS]:</strong> CI/CD PIPELINES OPERATIONAL</samp>
+    </td>
+  </tr>
 </table>
-
 ---
 
 ### 📡 // ESTABLISH CONNECTION [Uplink]
