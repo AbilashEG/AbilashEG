@@ -105,9 +105,6 @@ class AbilashEG:
   </a>&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/abilashgomathi7">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="36">
-  </a>&nbsp;
-  <a href="https://drive.google.com/file/d/16J3RQYaipYYbWEA91LfixeA4FtSnYum/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-F7931E?style=for-the-badge&logo=google-drive&logoColor=white" height="36">
   </a>
 </p>
 
